@@ -17,7 +17,7 @@ import automata from '../img/automata.png'
 import cloudComputing from '../img/cloud_Computing.jpg'
 import software_engineering from '../img/software_Engineering.png'
 import trainingDSA from '../img/trainingDSA.png'
-import powerBi from '../img/powerBi.png'
+import powerBiProject from '../img/powerBiProject.png'
 
 // Step 1
 export const portfolioContext = createContext();
@@ -148,7 +148,7 @@ I actively pursue online certifications and practical learning to stay ahead in 
                 techUsed: [
                   "Power BI", "Data Visualization", "Charts", "Dashboard Design"
                 ],
-                imgUrl:powerBi,
+                imgUrl:powerBiProject,
                 gitHubLink: "https://github.com/vivekkrs/Diabetes-Analytics-Dashboard-",
                 deployedLink: "#"
               },
