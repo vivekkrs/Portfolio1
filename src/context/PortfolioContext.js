@@ -50,7 +50,8 @@ export default function PortfolioContextProvider({ children }) {
 
 I'm Vivek Kumar, a B.Tech CSE student at Lovely Professional University with a strong passion for data analysis and data science. I specialize in working with data to extract meaningful insights using tools and techniques in data analysis, visualization, and statistical modeling.
 
-Beyond development, I have a keen interest in data analysis and visualization, demonstrated through my Amazon Prime Video Dashboard project using Tableau. I’ve solved over 200 coding problems on platforms like LeetCode and GeeksforGeeks, constantly refining my problem-solving and algorithmic thinking.
+Beyond development, I have a keen interest in data analysis and visualization, demonstrated through my Movie Recommendation System
+ project using Python. I’ve solved over 200 coding problems on platforms like LeetCode and GeeksforGeeks, constantly refining my problem-solving and algorithmic thinking.
 
 I actively pursue online certifications and practical learning to stay ahead in tech. My goal is to build scalable, secure, and user-centric solutions that create real-world impact and improve lives through innovation and technology.`;
 
